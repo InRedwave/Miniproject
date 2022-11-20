@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="ch01/sec09/|ch01/sec11/|ch01/sec12/|ch02/sec01/|ch02/sec02/|ch02/sec05/|ch02/sec06/|ch02/sec07/|ch02/sec08/|ch02/sec09/|ch02/sec10/|ch02/sec12/|ch02/sec13/|ch03/example/|ch03/sce07/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/lombok.jar"/>
+	<classpathentry kind="lib" path="lib/json-20220924.jar"/>
+	<classpathentry kind="lib" path="lib/ojdbc8.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbcp2-2.9.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-pool2-2.11.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/3"/>
+	<classpathentry kind="lib" path="C:/ThisisJavaSecondEdition/workspace/comProject/lib/json-20220924.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
